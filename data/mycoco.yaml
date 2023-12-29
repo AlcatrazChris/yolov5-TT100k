@@ -1,0 +1,195 @@
+# YOLOv5 🚀 by Ultralytics, AGPL-3.0 license
+# COCO128 dataset https://www.kaggle.com/ultralytics/coco128 (first 128 images from COCO train2017) by Ultralytics
+# Example usage: python train.py --data coco128.yaml
+# parent
+# ├── yolov5
+# └── datasets
+#     └── coco128  ← downloads here (7 MB)
+
+
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+#path: C:\Users\zifan\Desktop\yolov5-master\yolov5-master\  # dataset root dir
+train: E:\Dataset\Dataset\images\train  # train images (relative to 'path') 128 images
+val: E:\Dataset\Dataset\images\test  # val images (relative to 'path') 128 images
+test:  # test images (optional)
+
+# Classes
+names:
+  0: ph5
+  1: p26
+  2: pl40
+  3: pl60
+  4: pn
+  5: i5
+  6: p11
+  7: pne
+  8: pcl
+  9: pl50
+  10: w55
+  11: pl5
+  12: ph4.5
+  13: pl80
+  14: w30
+  15: pg
+  16: pl30
+  17: p19
+  18: i4l
+  19: i2r
+  20: pl35
+  21: pm20
+  22: pbp
+  23: p5
+  24: pl120
+  25: p13
+  26: w57
+  27: ip
+  28: p10
+  29: il100
+  30: il60
+  31: il90
+  32: pb
+  33: pl110
+  34: w59
+  35: il80
+  36: pl100
+  37: ph4
+  38: pmb
+  39: p14
+  40: pl15
+  41: p1
+  42: w21
+  43: w42
+  44: i4
+  45: p16
+  46: p3
+  47: pl70
+  48: pdd
+  49: w32
+  50: w13
+  51: i2
+  52: pr40
+  53: pm30
+  54: w63
+  55: p12
+  56: p17
+  57: p18
+  58: im
+  59: pl20
+  60: p6
+  61: p27
+  62: pr30
+  63: i12
+  64: wc
+  65: i10
+  66: p23
+  67: ps
+  68: w58
+  69: p25
+  70: ph3
+  71: pl90
+  72: pbm
+  73: ph3.3
+  74: pl10
+  75: pss
+  76: pm55
+  77: pm10
+  78: w47
+  79: pr60
+  80: il50
+  81: pr20
+  82: w22
+  83: iz
+  84: p9
+  85: pm15
+  86: w3
+  87: p29
+  88: pa14
+  89: ph4.2
+  90: pa13
+  91: pr50
+  92: w45
+  93: il110
+
+#
+## Download script/URL (optional)
+#download: https://ultralytics.com/assets/coco128.zip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
